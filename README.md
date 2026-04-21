@@ -1,3 +1,9 @@
+> 👉 **Acesse aqui:**  
+>🔗 https://agape-restaurante-kzwg.vercel.app/#eventos
+> ## 🎬 Demonstração
+> ![Demonstração da Landing Page Nexcel](./assets/agape-restaurante.gif)
+---
+
 # Ágape Gastronomia
 
 O **Ágape Gastronomia** é um projeto de site institucional voltado para o ramo alimentício, desenvolvido com foco em design elegante, usabilidade e uma experiência de usuário fluida. O projeto busca transmitir a essência do "amor à mesa" através de uma interface acolhedora e moderna.
