@@ -1,5 +1,5 @@
 > 👉 **Acesse aqui:**  
->🔗 https://agape-restaurante-kzwg.vercel.app/#eventos
+>🔗 https://agape-restaurante.vercel.app/
 > ## 🎬 Demonstração
 > ![Demonstração da Landing Page Nexcel](./assets/agape-restaurante.gif)
 ---
