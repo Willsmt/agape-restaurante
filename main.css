@@ -1,0 +1,102 @@
+:root {
+  --borgonha: #5d0e1d;
+  --ouro: #c5a059;
+  --creme: #f9f7f2;
+  --texto: #2d2926;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: var(--creme);
+  color: var(--texto);
+}
+
+/* Header e Navegação */
+.navbar {
+  background-color: var(--borgonha);
+}
+
+.navbar-brand {
+  color: var(--ouro) !important;
+  font-family: "Pacifico", cursive;
+}
+
+#cabecalho .nav .nav-link {
+  color: #fff;
+}
+
+#cabecalho .nav .nav-link.active {
+  background-color: var(--ouro);
+  color: var(--borgonha);
+}
+
+.navbar-toggler {
+  background-color: var(--creme);
+}
+
+/* Títulos */
+.section-title {
+  font-family: "Pacifico", cursive;
+  color: var(--borgonha);
+}
+
+.text-colored {
+  color: var(--ouro); /* O dourado como destaque nos títulos */
+}
+
+/* Seções e Cardápio */
+#sobre-o-restaurante,
+#eventos,
+#Cardapio {
+  background-color: var(--creme);
+}
+
+.nav-cardapio .nav-link.active {
+  background-color: var(--borgonha);
+  color: var(--creme);
+}
+
+.nav-cardapio .nav-link {
+  color: var(--borgonha);
+}
+
+.nav-cardapio .nav-link:hover {
+  color: var(--ouro);
+}
+
+/* Botões e elementos extras */
+#fale-conosco button {
+  background-color: var(--borgonha);
+  color: var(--creme);
+}
+
+/* Ajuste das imagens do cardápio (adicionado para você usar) */
+.img-cardapio {
+  height: 220px;
+  object-fit: cover;
+  width: 100%;
+}
+
+/* itens social */
+.social-links li {
+  list-style: none;
+
+  display: inline;
+}
+
+.social-links a {
+  text-decoration: none;
+}
+
+/* footer */
+footer {
+  background-color: var(--borgonha);
+  color: var(--ouro);
+}
+
+@media (max-width: 767px) {
+  .carousel-item img {
+    height: 200px;
+    object-fit: cover;
+  }
+}
